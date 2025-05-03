@@ -59,9 +59,9 @@ json
 Copy
 Edit
 [
-  {"title": "shannu", "id": 1},
-  {"title": "roshini", "id": 2},
-  {"title": "pihu", "id": 3}
+  {"title": "blah0", "id": 1},
+  {"title": "blah1", "id": 2},
+  {"title": "blah2", "id": 3}
 ]
 2. GET /api/customers/:id
 Retrieve a customer by id.
@@ -78,7 +78,7 @@ json
 Copy
 Edit
 {
-  "title": "shannu",
+  "title": "blah0",
   "id": 1
 }
 3. POST /api/customers
@@ -148,7 +148,7 @@ json
 Copy
 Edit
 {
-  "title": "shannu",
+  "title": "blah0",
   "id": 1
 }
 Testing with Postman
